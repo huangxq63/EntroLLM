@@ -1,5 +1,5 @@
 # EntroLLM
-This repository contains the code associated with the paper "EntroLLM: Leveraging Entropy and Large Language Model Embeddings for Enhanced Risk Prediction with Wearable Device Data", which has been accepted at AMIA 2025 Informatics Summit. The code implements the methods and analyses described in the paper, including data preprocessing, modeling, and evaluation. 
+This repository contains the code associated with the paper "*EntroLLM: Leveraging Entropy and Large Language Model Embeddings for Enhanced Risk Prediction with Wearable Device Data*", which has been accepted at AMIA 2025 Informatics Summit. The code implements the methods and analyses described in the paper, including data preprocessing, modeling, and evaluation. 
 
 <!-- 
 ## **Contents**
