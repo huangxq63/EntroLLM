@@ -3,11 +3,11 @@ This repository contains the code associated with the paper "*EntroLLM: Leveragi
 
 <!-- 
 ## **Contents**
-- 📄 `README.md` – Overview of the repository
-- 📂 `data_preprocessing/` – Scripts for cleaning and preparing the dataset  
-- 📂 `modeling/` – Implementation of the statistical and machine learning models  
-- 📂 `evaluation/` – Scripts for performance assessment  
-- 📄 `notebooks/` –   
+- `README.md` – Overview of the repository
+- `data_preprocessing.R` – R script for cleaning and preparing the dataset.  
+- `modeling/` – Implementation of the statistical and machine learning models  
+-  `evaluation/` – Scripts for performance assessment  
+-  `notebooks/` –   
 -->
 <!--  
 ## **Citation**
