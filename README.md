@@ -7,7 +7,7 @@ This repository contains the code associated with the paper "*EntroLLM: Leveragi
 - `01_data_preprocessing.R` – R script for cleaning and preparing the dataset.  
 - `02_entropy.ipynb` – Jupyter Notebook (Python) for calculating the Shannon entropy.
 - `03_LLM_embedding.ipynb` – Jupyter Notebook (Python) for computing LLM embeddings.
-- `04_model.ipynb` – R script for modeling and evaluation.
+- `04_model.R` – R script for modeling and evaluation.
 
 <!--  
 ## **Citation**
