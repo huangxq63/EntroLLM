@@ -21,6 +21,7 @@ This repository contains the code associated with the paper "*EntroLLM: Leveragi
   pages={225},
   year={2025}
 }
+```
 
 ## **Contact**
 For any questions, please feel free to reach out to the author at xh2470@caa.columbia.edu.
