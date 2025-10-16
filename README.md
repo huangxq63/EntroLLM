@@ -11,6 +11,8 @@ This repository contains the code associated with the paper "*EntroLLM: Leveragi
 
 ## **Citation**
   If you use this code, please cite our paper: 
+  BibTeX:
+```bibtex
   @article{huang2025entrollm,
   title={EntroLLM: Leveraging Entropy and Large Language Model Embeddings for Enhanced Risk Prediction with Wearable Device Data},
   author={Huang, Xueqing and Gu, Tian},
