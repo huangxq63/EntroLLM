@@ -1,5 +1,5 @@
 # EntroLLM
-This repository contains the code associated with the paper "*EntroLLM: Leveraging Entropy and Large Language Model Embeddings for Enhanced Risk Prediction with Wearable Device Data*", which has been accepted at AMIA 2025 Informatics Summit. The code implements the methods and analyses described in the paper, including data preprocessing, modeling, and evaluation. 
+This repository contains the code associated with the paper "*EntroLLM: Leveraging Entropy and Large Language Model Embeddings for Enhanced Risk Prediction with Wearable Device Data*", published in the AMIA Summits on Translational Science Proceedings 2025. The code implements the methods and analyses described in the paper, including data preprocessing, modeling, and evaluation. 
 
  
 ## **Contents**
@@ -9,16 +9,16 @@ This repository contains the code associated with the paper "*EntroLLM: Leveragi
 - `03_LLM_embedding.ipynb` – Jupyter Notebook (Python) for computing LLM embeddings.
 - `04_model.R` – R script for modeling and evaluation.
 
-<!--  
 ## **Citation**
   If you use this code, please cite our paper: 
-  @article{YourLastName2024,
-  title={ENTROLLM: [Paper Title]},
-  author={Your Name, Co-Authors},
-  journal={AMIA},
-  year={2024}
+  @article{huang2025entrollm,
+  title={EntroLLM: Leveraging Entropy and Large Language Model Embeddings for Enhanced Risk Prediction with Wearable Device Data},
+  author={Huang, Xueqing and Gu, Tian},
+  journal={AMIA Summits on Translational Science Proceedings},
+  volume={2025},
+  pages={225},
+  year={2025}
 }
---> 
 
 ## **Contact**
 For any questions, please feel free to reach out to the author at xh2470@caa.columbia.edu.
